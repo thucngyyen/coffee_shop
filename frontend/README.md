@@ -24,13 +24,13 @@ npm install
 
 >_tip_: **npm i** is shorthand for **npm install**
 
-## Required Tasks
+<!-- ## Required Tasks
 
 ### Configure Enviornment Variables
 
 Ionic uses a configuration file to manage environment variables. These variables ship with the transpiled software and should not include secrets.
 
-- Open `./src/environments/environments.ts` and ensure each variable reflects the system you stood up for the backend.
+- Open `./src/environments/environments.ts` and ensure each variable reflects the system you stood up for the backend. -->
 
 ## Running Your Frontend in Dev Mode
 
@@ -43,9 +43,9 @@ ionic serve
 >_tip_: Do not use **ionic serve**  in production. Instead, build Ionic into a build artifact for your desired platforms.
 [Checkout the Ionic docs to learn more](https://ionicframework.com/docs/cli/commands/build)
 
-## Key Software Design Relevant to Our Coursework
+## Key Software Design 
 
-The frontend framework is a bit beefy; here are the two areas to focus your study.
+<!-- The frontend framework is a bit beefy; here are the two areas to focus your study. -->
 
 ### Authentication
 
